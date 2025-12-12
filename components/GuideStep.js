@@ -12,8 +12,6 @@ const GuideStep = () => {
   const step = steps[currentStep];
   const prevStepRef = useRef(currentStep);
 
-  if (!step) return null;
-
   useEffect(() => {
     // small delay to ensure we scroll to the top after animation is complete
     const timeout = setTimeout(() => {
@@ -26,6 +24,8 @@ const GuideStep = () => {
   useEffect(() => {
     prevStepRef.current = currentStep;
   }, [currentStep]);
+
+  if (!step) return null;
 
   const direction = currentStep > prevStepRef.current ? 1 : -1;
 
