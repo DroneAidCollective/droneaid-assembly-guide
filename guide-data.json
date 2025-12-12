@@ -1,0 +1,841 @@
+{
+  "steps": [
+    {
+      "title": "Welcome to DroneAid Assembly",
+      "content": [
+        {
+          "image": "droneaid.png"
+        },
+        {
+          "text": "Welcome to the DroneAid Assembly Guide! This interactive guide will walk you through the complete assembly process of your drone step by step. "
+        },
+        {
+          "image": "welcome.webp"
+        }
+      ]
+    },
+    {
+      "title": "Prep: Unpack Frame and Clean Parts",
+      "content": [
+        {
+          "text": "Unpack the frame bag and group the screws on the blue mat"
+        },
+        {
+          "text": "Wipe all parts clean of dirt with napkins (so that you don’t dirty your hands while assembling)"
+        },
+        {
+          "image": "image1.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Prep: Sort and Organize All Bolts",
+      "content": [
+        {
+          "text": "Before starting, sort all bolts by size and put it into the sorter (plastic box)"
+        },
+        {
+          "unordered_list": [
+            "28mm Long",
+            "18mm Medium",
+            "16mm Shorts",
+            "10mm",
+            "8mm",
+            "m2 8mm thin bolts",
+            "m2 6mm thin bolts",
+            "m2 4mm thin bolts"
+          ]
+        },
+        {
+          "image": "image2.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Identify Parts and Bolt Sizes",
+      "content": [
+        {
+          "text": "Prepare to join shield [1] to arms [2] and to bottom frame [3]."
+        },
+        {
+          "image": "image1.jpeg"
+        },
+        {
+          "unordered_list": ["Long 28mm", "Medium 18mm", "Shorts 16mm"]
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Insert Bolts into Bottom Plate",
+      "content": [
+        {
+          "text": "Inset a medium 18mm bolt and a short 16mm bolt into the bottom plate."
+        },
+        {
+          "image": "image3.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Mount First Arm",
+      "content": [
+        {
+          "text": "Place the arm onto the bolts."
+        },
+        {
+          "image": "image4.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Add Middle Plate",
+      "content": [
+        {
+          "text": "Place the middle plate onto the top and screw the short 16mm bolt into it"
+        },
+        {
+          "image": "image5.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Install Spacers on Arms",
+      "content": [
+        {
+          "text": "Screw spacer onto medium 18mm bolt"
+        },
+        {
+          "image": "image6.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Repeat Steps for Remaining Arms",
+      "content": [
+        {
+          "text": "Repeat 2-4 step for all other arm"
+        },
+        {
+          "image": "image7.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Check: Verify Bolt Lengths",
+      "content": [
+        {
+          "text": "⚠️ Check that any of the short bolts don't stick out from the plate."
+        },
+        {
+          "image": "image8.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Tie Arms Together",
+      "content": [
+        {
+          "text": "Screw 2 short 16mm boltsbetwean arms"
+        },
+        {
+          "image": "image9.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Install Center 28mm Bolts",
+      "content": [
+        {
+          "text": "Screw 4 long 28mm bolts in the middle part"
+        },
+        {
+          "image": "image10.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Corner Spacers on Middle Plate",
+      "content": [
+        {
+          "text": "Screw the spacers to the corners of the middle plate using 8mm bolts"
+        },
+        {
+          "image": "image11.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Install Front Camera Mount",
+      "content": [
+        {
+          "text": "Add 3d printed part for the camera in front"
+        },
+        {
+          "image": "image12.webp"
+        }
+      ]
+    },
+    {
+      "title": "Frame Assembly: Install Rear Antenna Mount",
+      "content": [
+        {
+          "text": "Add 3d printed part for antennas on the back"
+        },
+        {
+          "image": "image13.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Installation: Overview and Safety",
+      "content": [
+        {
+          "text": "Now its time to install the motors. We have 4 motors in the package."
+        },
+        {
+          "warning": true,
+          "text": "‼️ Attention! keep motors as far as possible away from small metal particles (screws, pieces of wires, etc ) as they can damage the motor."
+        }
+      ]
+    },
+    {
+      "title": "Motor Installation: Prepare Motors and Hardware",
+      "content": [
+        {
+          "text": "Open the package with 4 screws and a one big nut for the motor. Screw the nut onto the motor by hand to not lose it."
+        },
+        {
+          "image": "image14.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Installation: Check Correct Screw Length",
+      "content": [
+        {
+          "text": "Before installing the motors, we need to make sure that the screws are the right length. For a 10” drone, it's a 10mm screw."
+        },
+        {
+          "warning": true,
+          "text": "‼️ We need to make sure that they do not touch the motor windings, and at the same time hold the motors firmly"
+        },
+        {
+          "image": "image15.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Installation: Apply Thread Lock",
+      "content": [
+        {
+          "text": "After we have found the screws, we need to apply one drop of thread lock (loctite) to bolt and screw them."
+        },
+        {
+          "text": "Repeat it for all bolts."
+        },
+        {
+          "image": "image16.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Installation: Final Tightening",
+      "content": [
+        {
+          "text": "Tighten all screws until thread lock will fix screws"
+        },
+        {
+          "image": "image17.webp"
+        },
+        {
+          "image": "image18.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Components Overview",
+      "content": [
+        {
+          "text": "Components:"
+        },
+        {
+          "ordered_list": [
+            "Silicone grommets",
+            "Nylon nut M3 (use for VTX)",
+            "Stack screws (not used)",
+            "Flight Controller (FC)",
+            "Electronic speed controller (ESC)",
+            "WiresAssembling"
+          ]
+        },
+        {
+          "image": "image19.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Add Grommets to Stack Bolts",
+      "content": [
+        {
+          "text": "Place 4 silicone grommets on 4 bolts for stack"
+        },
+        {
+          "image": "image20.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Install Grommets on ESC",
+      "content": [
+        {
+          "text": "Insert silicone grommets into the holes on ESC"
+        },
+        {
+          "ordered_list": [
+            "Squeeze silicone grommets from both sides",
+            "Insert one side into the hole",
+            "Adjust so that the silicone grommets is completely in place"
+          ]
+        },
+        {
+          "image": "image21.webp"
+        },
+        {
+          "image": "image22.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Install Grommets on FC",
+      "content": [
+        {
+          "text": "Insert silicone grommets into the holes on FC"
+        },
+        {
+          "image": "image23.webp"
+        },
+        {
+          "image": "image24.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Connect Cable to ESC",
+      "content": [
+        {
+          "text": "Connect cable to ESC before place in place"
+        },
+        {
+          "image": "image25.webp"
+        },
+        {
+          "image": "image26.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Position ESC on Frame",
+      "content": [
+        {
+          "text": "Place the ESC with the power cables towards the antennas. And make sure motor cables are aligned as on the photo"
+        },
+        {
+          "image": "image27.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Orient and Mount FC",
+      "content": [
+        {
+          "text": "On top of the ESC, place FC as in the photo. Arrow must look to the camera side"
+        },
+        {
+          "image": "image28.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Plug Cable into FC",
+      "content": [
+        {
+          "text": "Connect cable to FC"
+        },
+        {
+          "image": "image29.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Prepare Metal Stack Nuts",
+      "content": [
+        {
+          "text": "Take 4 metal nuts for the stack from the frame components"
+        },
+        {
+          "image": "image30.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Tighten Stack with Isolation",
+      "content": [
+        {
+          "text": "Tighten the stack so that it stands straight, but leave enough flexibility for the silicone to compress and absorb vibrations. The bolts must touch the silicone inside the nuts"
+        },
+        {
+          "image": "image31.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Check Bottom Bolts",
+      "content": [
+        {
+          "text": "Check that all the bolts on the bottom of the board are tightened"
+        },
+        {
+          "image": "image32.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Connect Motor Cables",
+      "content": [
+        {
+          "text": "Connect the motors cables to the stack. Make sure to use the nearest motor outputs when connecting each motor"
+        },
+        {
+          "image": "image33.webp"
+        }
+      ]
+    },
+    {
+      "title": "FC & ESC: Secure Motor Wires to Frame",
+      "content": [
+        {
+          "text": "Attach double-sided tape from the motor wires to the frame closer to the motors"
+        },
+        {
+          "image": "image34.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Components Overview",
+      "content": [
+        {
+          "text": "Components:"
+        },
+        {
+          "ordered_list": [
+            "3d printed rect spacer",
+            "4 х 8mm bolts from frame kit",
+            "Pigtail for antenna",
+            "VTX",
+            "Cable for connecting VTX to FC"
+          ]
+        },
+        {
+          "image": "image35.webp"
+        },
+        {
+          "image": "image36.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Mount 3D-Printed Spacer",
+      "content": [
+        {
+          "text": "Install 3d printed spacer to frame by 4x8 mm bolts from frame kit"
+        },
+        {
+          "image": "image37.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Connect Cable to FC",
+      "content": [
+        {
+          "text": "Connect the VTX cable to the FC"
+        },
+        {
+          "warning": true,
+          "text": "‼️ If you cannot do it easily, you can unscrew the FC, connect the cable, and then screw the FC back in place."
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Attach Cable to VTX",
+      "content": [
+        {
+          "text": "Twist the VTX cable and connect it to the VTX."
+        },
+        {
+          "image": "image38.webp"
+        },
+        {
+          "image": "image39.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Install Antenna Pigtail in Mount",
+      "content": [
+        {
+          "text": "Remove the nut from the pigtail and insert the pigtail from the underside in the 3d printed mount."
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Secure Pigtail with Nut and Disk",
+      "content": [
+        {
+          "text": "Fix it in place using a disc and a nut from the top."
+        },
+        {
+          "image": "image40.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Bolt VTX onto Spacer",
+      "content": [
+        {
+          "text": "Install VTX as on a photo and screw then by 4 bolts as on a photo"
+        },
+        {
+          "image": "image41.webp"
+        }
+      ]
+    },
+    {
+      "title": "VTX 3W: Connect Pigtail to VTX",
+      "content": [
+        {
+          "text": "Connect the pigtail to the VTX until you hear a click."
+        },
+        {
+          "image": "image42.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Cable Soldering: Prepare Wires",
+      "content": [
+        {
+          "text": "Prepare the cables:"
+        },
+        {
+          "ordered_list": [
+            "Cut the wire to length so that it is enough for the connecting to FS",
+            "Wear cable protection like on the photo",
+            "Clean cable for 2-3mm like on photo",
+            "One by one apply flux on cable and",
+            "Add tin the solder to cable to cover them"
+          ]
+        },
+        {
+          "image": "image43.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Cable Soldering: Prepare Pads",
+      "content": [
+        {
+          "text": "Prepare the solder pad:"
+        },
+        {
+          "ordered_list": [
+            "Apply flux to the solder pad",
+            "Tin the pad with solder",
+            "Repeat 1-2 for all 3 pads"
+          ]
+        },
+        {
+          "image": "image44.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Cable Soldering: Solder Wires to Pads",
+      "content": [
+        {
+          "text": "Solder all thee cables to the pad"
+        },
+        {
+          "image": "image45.webp"
+        }
+      ]
+    },
+    {
+      "title": "Motor Cable Soldering: Add Protection",
+      "content": [
+        {
+          "text": "Cover by protection"
+        },
+        {
+          "image": "image46.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: TX/RX Wiring Logic",
+      "content": [
+        {
+          "text": "The cable that connects to the TX (transmit) pad on the flight controller must be soldered to the RX (receive) pad on the receiver because they are designed to communicate with each other."
+        },
+        {
+          "text": "The TX pad sends data out, and the RX pad receives data."
+        },
+        {
+          "text": "By connecting TX to RX and RX to TX, you ensure that the data flow is correct — the flight controller can send commands to the receiver, and the receiver can correctly interpret them."
+        },
+        {
+          "warning": true,
+          "text": "‼️ If you connect TX to TX or RX to RX, the devices won't be able to properly exchange information."
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Components Overview",
+      "content": [
+        {
+          "text": "Components:"
+        },
+        {
+          "ordered_list": ["TX cable", "Heat shrink", "TX", "2 x TX antennas."]
+        },
+        {
+          "image": "image47.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Route First Antenna",
+      "content": [
+        {
+          "text": "Insert the first antenna into the tail"
+        },
+        {
+          "image": "image48.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Route Second Antenna",
+      "content": [
+        {
+          "text": "Insert the second antenna"
+        },
+        {
+          "image": "image49.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Connect Cable to TX",
+      "content": [
+        {
+          "text": "Connect cable to TX"
+        },
+        {
+          "image": "image50.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Attach Antennas and Heat Shrink",
+      "content": [
+        {
+          "text": "Connect antennas to TX and slide heat shrink tubing onto the TX cable"
+        },
+        {
+          "image": "image51.webp"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Seal with Heat Shrink",
+      "content": [
+        {
+          "text": "Move the heat shrink to cover the plate. Make sure the heat shrink covers all the contacts."
+        },
+        {
+          "text": "Heat the heat shrink to seal and protect the contacts"
+        }
+      ]
+    },
+    {
+      "title": "Receiver Install: Connect to FC",
+      "content": [
+        {
+          "text": "Twist the TX cable and connect to the FC."
+        },
+        {
+          "image": "image52.webp"
+        }
+      ]
+    },
+    {
+      "title": "Camera Install: Components Overview",
+      "content": [
+        {
+          "text": "Components:"
+        },
+        {
+          "ordered_list": [
+            "Camera",
+            "Cable from FC Box",
+            "2 x 4mm bolts",
+            "2 x washers"
+          ]
+        },
+        {
+          "image": "image53.webp"
+        }
+      ]
+    },
+    {
+      "title": "Camera Install: Insert Mounting Bolts",
+      "content": [
+        {
+          "text": "Insert the bolts into the second holes, closer to the front of drone."
+        },
+        {
+          "image": "image54.webp"
+        }
+      ]
+    },
+    {
+      "title": "Camera Install: Add Spacers to Bolts",
+      "content": [
+        {
+          "text": "Place the spacers onto the bolts from inside"
+        },
+        {
+          "image": "image55.webp"
+        }
+      ]
+    },
+    {
+      "title": "Camera Install: Mount and Orient Camera",
+      "content": [
+        {
+          "text": "Mount the camera; the cable connector must be on the top side of the camera."
+        },
+        {
+          "image": "image56.webp"
+        }
+      ]
+    },
+    {
+      "title": "Camera Install: Connect to FC",
+      "content": [
+        {
+          "text": "Twist the cable and connect it to the flight controller."
+        },
+        {
+          "image": "image57.webp"
+        }
+      ]
+    },
+    {
+      "title": "Top Plate: Install and Secure",
+      "content": [
+        {
+          "ordered_list": [
+            "Place the plate on top",
+            "Screw in the 8mm bolts to secure it"
+          ]
+        },
+        {
+          "image": "image58.webp"
+        }
+      ]
+    },
+    {
+      "title": "Top Plate: Fix Receiver to Plate",
+      "content": [
+        {
+          "text": "Fix the TX by zip-tying it to the top plate."
+        },
+        {
+          "image": "image59.webp"
+        }
+      ]
+    },
+    {
+      "title": "Top Plate: Antennas, Battery Pad and Cable Tidy",
+      "content": [
+        {
+          "ordered_list": [
+            "Cut off the excess tail of the zip tie.",
+            "Check all bolts from all sides to make sure they are tightened properly.",
+            "Stick the battery pad onto the top plate.",
+            "Attach the VTX antenna",
+            "Connect second antenna to the right arm by zip-tying",
+            "Fix the second antenna by zip-tying it to the top plate.  From LEFT SIDE",
+            "Fix by y zip-tying motors cables"
+          ]
+        },
+        {
+          "image": "image60.webp"
+        }
+      ]
+    },
+    {
+      "title": "Assembly Complete: Mentor Review",
+      "content": [
+        {
+          "text": "You have successfully assembled your drone! Congratulations!"
+        },
+        {
+          "warning": true,
+          "text": "Show your drone to your mentor for a check!"
+        }
+      ]
+    },
+    {
+      "title": "Cleanup: Reset Workspace and Tools",
+      "content": [
+        {
+          "text": "Please help us clean the work place 🙏"
+        },
+        {
+          "text": "Put tools back into the KIT-box or next to it:"
+        },
+        {
+          "ordered_list": [
+            "Silicone mat",
+            "plastic box",
+            "soldering iron Fnirsi HS-02B",
+            "type-c cable",
+            "soldering iron holder",
+            "power supply 100w",
+            "screw driver 2mm",
+            "screw driver 1.5mm",
+            "nut driver 5.5mm",
+            "screw measure tool x2",
+            "tweezers",
+            "side cutters (big)",
+            "flux",
+            "flux feeder",
+            "toothbrush",
+            "solder spool",
+            "solder feeder",
+            "zip-tights x10",
+            "alcohol dispenser",
+            "3rd hand"
+          ]
+        },
+        {
+          "image": "image61.webp"
+        }
+      ]
+    }
+  ]
+}

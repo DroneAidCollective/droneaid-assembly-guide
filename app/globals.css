@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fff;
+  --color-yellow: #ffd62c;
+  --color-yellow-hover: #e4be25;
+  --color-blue: #4238eb;
+  --color-blue-hover: #332cc5;
+  --color-blue-light: #e7e5fd;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-montserrat);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-kyiv-type-sans);
+}
+
+.font-primary {
+  font-family: var(--font-montserrat);
+}
+
+.font-secondary {
+  font-family: var(--font-kyiv-type-sans);
+}
+
+.bg-yellow {
+  background-color: var(--color-yellow);
+}
+
+.bg-blue {
+  background-color: var(--color-blue);
+}
+
+.bg-blue-light {
+  background-color: var(--color-blue-light);
+}
+
+.btn-primary {
+  background-color: var(--color-yellow);
+  @media (hover: hover) {
+    &:hover {
+      background-color: var(--color-yellow-hover);
+    }
+  }
+  @apply shadow text-black rounded-full py-3 px-5 cursor-pointer transition-colors duration-300 ease-in-out font-medium text-base;
+}
+
+.btn-transparent {
+  background-color: transparent;
+  @media (hover: hover) {
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  }
+  @apply border-2 border-transparent text-black rounded-full py-3 px-5 cursor-pointer transition-all duration-300 ease-in-out font-medium hover:border-gray-400 text-base;
+}
+
+.app-width {
+  @apply max-w-lg;
+}
